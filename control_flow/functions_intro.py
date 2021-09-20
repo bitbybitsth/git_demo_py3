@@ -15,8 +15,8 @@ def <function_name>(<optional parameter>,<optional parameter n>):
 
 def test_func():
     num=10
-    if num%2 == 0:
-        print("even")
+    if num%2 != 0:
+        print("odd")
 
 # test_func()
 # test_func()
