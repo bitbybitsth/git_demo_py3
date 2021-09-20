@@ -11,7 +11,7 @@ stop - stop index for the slice, if not given default value len(seq_ref), and sl
 step - denotes the step value is used to determine the next element to be picked, by default +1
 """
 
-sizes = [1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024]
+sizes = [1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048]
 weekdays = tuple((["mon", "tue", "wed", "thu", "fri", "sat", "sun"]))
 quote = "your limitation is your imagination"
 dt = "2020-04-30T8:30:00Z"
