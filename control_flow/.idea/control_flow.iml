@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (demo_env)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="datatypes" />
+    <orderEntry type="module" module-name="intervierw_assignments" />
+    <orderEntry type="module" module-name="specials" />
+    <orderEntry type="module" module-name="important_modules" />
+    <orderEntry type="module" module-name="object_oriented_programming" />
+    <orderEntry type="module" module-name="advanced_concepts" />
+  </component>
+</module>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../advanced_concepts/.idea/advanced_concepts.iml" filepath="$PROJECT_DIR$/../advanced_concepts/.idea/advanced_concepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/control_flow.iml" filepath="$PROJECT_DIR$/.idea/control_flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../datatypes/.idea/datatypes.iml" filepath="$PROJECT_DIR$/../datatypes/.idea/datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../important_modules/.idea/important_modules.iml" filepath="$PROJECT_DIR$/../important_modules/.idea/important_modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../intervierw_assignments/.idea/intervierw_assignments.iml" filepath="$PROJECT_DIR$/../intervierw_assignments/.idea/intervierw_assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../object_oriented_programming/.idea/object_oriented_programming.iml" filepath="$PROJECT_DIR$/../object_oriented_programming/.idea/object_oriented_programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../specials/.idea/specials.iml" filepath="$PROJECT_DIR$/../specials/.idea/specials.iml" />
+    </modules>
+  </component>
+</project>
