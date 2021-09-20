@@ -13,6 +13,8 @@ inbuilt methods: count, index
 
 """
 
+# tuple intro
+
 # defining tuple
 # <name_for_tuple> = ("<elements seperated by comma>", "<elements seperated by comma>", "<elements seperated by comma>")
 # <name_for_tuple> = tuple(["<elements seperated by comma>", "<elements seperated by comma>", "<elements seperated by comma>"])

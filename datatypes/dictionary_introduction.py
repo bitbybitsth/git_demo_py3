@@ -8,6 +8,8 @@ Dictionary:
 •	Value can be of any type (Mutable or immutable) and duplicated are allowed.
 •	elements are accessed using keys
 •	can be nested
+
+
 •	dictionary is unordered collection
 •	insertion deletion is efficient and searching is not efficient compared to insertion/deletion.
 

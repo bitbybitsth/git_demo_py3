@@ -14,8 +14,6 @@ List:
 inbuilt methods: append, insert, extend, copy, count, reverse, sort, pop, remove, clear, index
 """
 
-# Syntax:
-#
 # <name_for_list> = [<Elements seperated by comma>, <Elements seperated by comma>, <Elements seperated by comma>]
 # <name_for_list> = list(<Elements seperated by comma>, <Elements seperated by comma>, <Elements seperated by comma>)
 # empty_list = []

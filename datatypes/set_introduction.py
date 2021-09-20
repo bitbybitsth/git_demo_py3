@@ -9,6 +9,8 @@ Sets:
 •	Sequence Order is Not Preserved
 •	Duplicates are not Allowed
 •	Single None Type Allowed
+
+
 •	Ideal for Insertion and Deletion
 •	Searching and retrieval might be costly operations
 •

@@ -9,7 +9,7 @@ There 2 type of type conversion in python.
 """
 
 # Implicit Type Conversion:
-# Python automatically converts one data type to another. We don’t need to involve here.
+# Python automaticallynverts one data type to another. We don’t need to involve here.
 #
 # Python avoids loss of data in implicit type conversion.
 
