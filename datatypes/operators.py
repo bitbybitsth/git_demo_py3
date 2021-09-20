@@ -2,16 +2,6 @@
 
 # Logical
 
-
-# x = int(input("Enter a number:"))
-#
-# if not (x>10 and x%2==0):
-#     print("You are correct")
-#     print("if scope")
-# else:
-#     print("you are wrong")
-#     print("else scope")
-
 # if not x%2==0:
 #     print("You are correct")
 #     print("if scope")

@@ -15,6 +15,7 @@ sizes = [1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024]
 weekdays = tuple((["mon", "tue", "wed", "thu", "fri", "sat", "sun"]))
 quote = "your limitation is your imagination"
 dt = "2020-04-30T8:30:00Z"
+dt_new = "2020-04-30T8:30:00Z"
 
 # print("all seq", sizes[::])
 # print("all seq", sizes[:])
