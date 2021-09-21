@@ -6,7 +6,7 @@
 # print(x)
 
 num = 10
-# tenth = num
+tenth = num
 # dus = 10
 # tenth = "tenth"
 #
