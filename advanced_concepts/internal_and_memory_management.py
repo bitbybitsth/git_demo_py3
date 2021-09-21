@@ -7,12 +7,12 @@
 
 num = 10
 tenth = num
-# dus = 10
-# tenth = "tenth"
-#
-# print(id(num))
-# print(num)
-# print(tenth)
+dus = 10
+tenth = "tenth"
+
+print(id(num))
+print(num)
+print(tenth)
 # print(id(tenth))
 # # ------------
 # num = num+1
