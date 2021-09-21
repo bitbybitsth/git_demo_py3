@@ -4,15 +4,8 @@ Functions can be reused whenever required.
 Functions can accept parameter and return some value.
 “return” keyword to return a value from function.
 
-syntax:
 
-def <function_name>(<optional parameter>,<optional parameter n>):
-    code block
-    code block
-    return some value <optional>
 """
-
-
 def test_func():
     num=10
     if num%2 == 0:
