@@ -1,12 +1,12 @@
 # inp_1 = 0
 # inp_2 = 0
 #
-# # try:
-# #     inp_1 = int(input("Enter one number"))
-# #     inp_2 = int(input("Enter second number"))
-# #     div = inp_1/inp_2
-# # except Exception:
-# #     print("One of the input is not and integer or float value")
+try:
+    inp_1 = int(input("Enter one number"))
+    inp_2 = int(input("Enter second number"))
+    div = inp_1/inp_2
+except Exception:
+    print("One of the input is not and integer or float value")
 #
 # try:
 #     inp_1 = int(input("Enter one number"))

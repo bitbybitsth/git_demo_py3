@@ -84,13 +84,13 @@
 # cutom_capitalised_names = list(map(capitalised_names, names))
 # print(cutom_capitalised_names)
 #
-# areas = [35.541546,56.686577,45.9782789,347.345435, 546546.4654646]
-# print(round(45.9782789))
+areas = [35.541546,56.686577,45.9782789,347.345435, 546546.4654646]
+print(round(45.9782789))
+
 #
-#
-# # dec = list(range(1, len(areas)+1))
-# dec = [2]*len(areas)
-# print(dec)
-# round_areas = list(map(round, areas, dec))
-# print(round_areas)
+# dec = list(range(1, len(areas)+1))
+dec = [2]*len(areas)
+print(dec)
+round_areas = list(map(round, areas, dec))
+print(round_areas)
 
