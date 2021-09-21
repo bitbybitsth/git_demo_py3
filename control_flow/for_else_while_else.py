@@ -4,6 +4,7 @@ num = int(input("enter a number"))
 
 
 
+
 # for num in range(2,number):
 #     for i in range(2, int(math.sqrt(num))+1):  # [2,.....,15]
 #         if num%i==0:
@@ -23,7 +24,7 @@ num = int(input("enter a number"))
 #     print("**")
 
 def is_prime(num):
-    for i in range(2, int(math.sqrt(num)) + 1):  # [2,.....,15]
+    for i in range(2, num + 1):  # [2,.....,15]
         if num % i == 0:
             print(f"{num} -> is not a prime number")
             break

@@ -16,7 +16,6 @@ cricket_team = {
     "vc": "rohit sharma",
     "wk": "Pant",
     "management": "BCCI",
-    "bowlers": {"fast": ["bumrah", "bhuvi"], "spin": ["chahal", "kuldeep"]},
 }
 
 
