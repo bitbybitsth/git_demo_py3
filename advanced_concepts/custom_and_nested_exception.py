@@ -6,7 +6,6 @@ class MedicineExpired(Exception):
         self.stat = "Not Good"
 
 
-
 class TooOldException(Exception):
 
     def __init__(self, age, message):
