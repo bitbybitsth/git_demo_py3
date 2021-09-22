@@ -2,6 +2,7 @@ class MedicineExpired(Exception):
 
     def __init__(self, message):
         self.message = message
+        self.status = True
 
 
 class TooOldException(Exception):
