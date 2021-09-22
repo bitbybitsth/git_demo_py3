@@ -2,8 +2,8 @@ class MedicineExpired(Exception):
 
     def __init__(self, message):
         self.message = message
-        self.status = False
-        self.stat = "All Good"
+        self.status = True
+        self.stat = "Not Good"
 
 
 
