@@ -37,5 +37,15 @@ class TestTuesday(unittest.TestCase):
         self.assertRaises((MultipliedByZero,), mul, 0, 9)
         self.assertRaises((MultipliedByZero,), mul, 9, 0)
 
+    def test_add_new(self):
+        self.assertEqual(add(10, 20), 30)
+        self.assertEqual(add(-5, 10), 5)
+        self.assertEqual(add(-5, -5), -10)
+        self.assertEqual(add(5, -10), -5)
+        self.assertNotEqual(add(10, 20), 31)
+        self.assertFalse(add(0, 0))
+        self.assertTrue(add(5,5))
+        self.assertIsNotNone(add(5, 6))
+
 if __name__ == '__main__':
     unittest.main()

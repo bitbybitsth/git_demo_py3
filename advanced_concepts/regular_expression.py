@@ -68,24 +68,24 @@ HDFC0003456
 
 pattern = re.compile("abc")
 print(type(pattern))
-
-#-----------------------------------------
+#
+# -----------------------------------------
 # findinter returns an interator object of the pattern matches from the provided string.
 # we can iterate over it to get more info
 
-# matches = pattern.finditer(text)
+matches = pattern.finditer(text)
 # matches = pattern.finditer(text, endpos=8)
 # matches = pattern.finditer(text, pos=50)
 # matches = pattern.finditer(text, endpos=100, pos=10)
 
 # matches = re.finditer(pattern, text)
 
-# for match in matches:
-#     print(match)
-#     print(match.span())
-#     print(match.end())
-#     print(match.start())
-#     print(match.string)
+for match in matches:
+    print(match)
+    print(match.span())
+    print(match.end())
+    print(match.start())
+    print(match.string)
 
 #-----------------------------------------
 # findall - it return the list of all matches
