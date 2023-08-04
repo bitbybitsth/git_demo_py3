@@ -29,6 +29,8 @@ def check_weather(location, day, **filter_param):
 
 
 check_weather("pune", "today")
+check_weather("solapur", "today")
+check_weather("nagpur", "today")
 
 
 def arbitrary_with_others(a, b, c, *args, z="JKL", **kwargs):
